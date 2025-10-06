@@ -2,18 +2,18 @@
               [0,       1,        2,       3]
 let fruits = ['Apple', 'Banana', 'Cherry', 'Date'];
 
-// console.log(fruits)
+//console.log(fruits)
 
 //Як дізнатися довжину масива?
-// console.log(fruits.length, "length")
+//console.log(fruits.length, "length")
 
 //Як дізнатися елемент під певним індексом?
 // console.log(fruits[2])
 
 //Цикли з масивами
-for (let i = 0; i < fruits.length; i++) {
+/* for (let i = 0; i < fruits.length; i++) {
   console.log(fruits[i]);
-}
+} */
 
 // Мутуючі методи - змінюють початковий масив:
 // push() – додає елементи до кінця масиву, змінюючи його.
